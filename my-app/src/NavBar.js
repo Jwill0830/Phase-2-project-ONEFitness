@@ -9,7 +9,7 @@ function NavBar() {
   const dropdownContents = {
     Store: ['Nutrition', 'Strength', 'Cardio', 'Flexibility', 'Apparel'],
     Classes: ['Group', 'Individual', 'At home', 'Gym', 'Create a class'],
-    Coaching: [ 'Arnold', 'Mr. T', 'Goggins', 'Michelle Selter', 'Leslie Knope', 'Become a coach' ],
+    Coaching: [ 'Coach Emiley', 'Coach Adam', 'Become a Coach' ],
     };
 
   return (

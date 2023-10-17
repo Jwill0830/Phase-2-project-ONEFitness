@@ -1,0 +1,23 @@
+App
+│
+├── Home
+│   ├── Store
+│   │   ├── Nutrition
+│   │   ├── Strength
+│   │   ├── Cardio
+│   │   ├── Flexibility
+│   │   └── Apparel
+│   │
+│   ├── Classes
+│   │   ├── Group
+│   │   ├── Individual
+│   │   └── Create a Class
+│   │
+│   └── Coaching
+│       ├── Coach Emiley
+│       ├── Coach Adam
+│       └── Become a Coach
+│
+├── Content Container
+│
+└── Footer

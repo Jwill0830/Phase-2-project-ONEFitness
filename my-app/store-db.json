@@ -1,0 +1,156 @@
+{
+    "Store":
+            {
+                "Nutrition":[
+                    {
+                        "id": 1,
+                        "product": "1UP WHEY Protein",
+                        "image": "https://1upnutrition.com/cdn/shop/files/1UP-WHEY-Strawberry-Shortcake_ab8239a1-d357-432f-9c3f-4ff51806a7ed_1024x1024.png?v=1689016914",
+                        "price": 50.99,
+                        "inventory": 20,
+                        "ratings": 5
+                    },
+                    {
+                        "id": 2,
+                        "product":"Stim Free Pre Workout",
+                        "image":"https://1upnutrition.com/cdn/shop/products/STIM-FREE-MIAMI-VICE_1024x1024.png?v=1693583276",
+                        "price": 50.99,
+                        "inventory":24,
+                        "ratings": 4
+                    },
+                    {
+                        "id": 3,
+                        "product":"His BCAA/EAA, Glutamine & Joint Support",
+                        "image":"https://1upnutrition.com/cdn/shop/files/BCAA-EAA-Plus-MEN-Guava_1024x1024.png?v=1691164048",
+                        "price": 50.99,
+                        "inventory": 31,
+                        "ratings": 4
+                    },
+                    {
+                        "id": 4,
+                        "product":"Pro Ripped MAX",
+                        "image":"https://1upnutrition.com/cdn/shop/files/PRO-RIPPED-MAX_1024x1024.png?v=1693334458",
+                        "price": 55.99,
+                        "inventory": 15,
+                        "ratings": 3        
+                    },
+                    {
+                        "id": 5,
+                        "product":"Relax",
+                        "image":"https://1upnutrition.com/cdn/shop/products/1UP-Relax-Stress-_-Anxiety-Management-WEB_1024x1024.png?v=1648644085",
+                        "price": 55.99,
+                        "inventory": 46,
+                        "ratings": 5        
+                    }
+                ],
+                "Strength":[
+                    {
+                        "id": 1,
+                        "product": "Squat Rack",
+                        "image": "https://gym-mikolo.com/cdn/shop/files/power_cage_K6_red_1.jpg?v=1682411633&width=1080",
+                        "price": 699.99,
+                        "inventory": 13,
+                        "ratings": 5
+                    },
+                    {
+                        "id": 2,
+                        "product": "Dumbbell Set",
+                        "image": "https://m.media-amazon.com/images/I/41Y+ZAIKsQL._AC_SY300_SX300_.jpg",
+                        "price": 189.99,
+                        "inventory": 25,
+                        "ratings": 4
+                    },
+                    {
+                        "id": 3,
+                        "product": "Pull Up Bar",
+                        "image": "https://m.media-amazon.com/images/I/51zRTboulBL._AC_UL640_FMwebp_QL65_.jpg",
+                        "price": 18.49,
+                        "inventory": 30,
+                        "ratings": 5
+                    }
+                ],
+                "Cardio":[
+                    {
+                        "id": 1,
+                        "product": "Walking Pad",
+                        "image": "https://m.media-amazon.com/images/I/71+JvpDk1gL._AC_SX679_.jpg",
+                        "price": 249.99,
+                        "inventory": 24,
+                        "ratings": 5
+                    },
+                    {
+                        "id": 2,
+                        "product": "Row Machine",
+                        "image": "https://m.media-amazon.com/images/I/51LUIzUtc0L._AC_SX679_.jpg",
+                        "price": 489.99,
+                        "inventory": 5,
+                        "ratings": 3
+                    },
+                    {
+                        "id": 3,
+                        "product": "Indoor Cycle Bike",
+                        "image": "https://m.media-amazon.com/images/I/71xXcydivxL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+                        "price": 179.99,
+                        "inventory": 12,
+                        "ratings": 4
+                    }
+                ],
+                "Flexibility":[
+                    {
+                        "id": 1,
+                        "product": "Yoga Mat",
+                        "image": "https://m.media-amazon.com/images/I/71jKDgN926L._AC_SX679_.jpg",
+                        "price": 20.15,
+                        "inventory": 36,
+                        "ratings": 4
+                    },
+                    {
+                        "id": 2,
+                        "product": "Yoga Straps",
+                        "image": "https://m.media-amazon.com/images/I/814D3X945aL._AC_SX679_.jpg",
+                        "price": 5.99,
+                        "inventory": 32,
+                        "ratings": 5
+                    },
+                    {
+                        "id": 3,
+                        "product": "Yoga Blocks",
+                        "image": "https://m.media-amazon.com/images/I/81bkQ5j0tVL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+                        "price": 16.99,
+                        "inventory": 28,
+                        "ratings": 3
+                    }
+                ],
+                "Apparel":[
+                    {
+                        "id": 1,
+                        "product": "Unisex Sweatpants",
+                        "image": "https://m.media-amazon.com/images/I/51UgAPJ1ipL._AC_SX679._SX._UX._SY._UY_.jpg",
+                        "price": 6.00,
+                        "inventory": 122,
+                        "ratings": 5
+                    },
+                    {
+                        "id": 2,
+                        "product": "Unisex Hoodie",
+                        "image": "https://m.media-amazon.com/images/I/61MoBAeL6wL._AC_SX679._SX._UX._SY._UY_.jpg",
+                        "price": 22.00,
+                        "inventory": 118,
+                        "ratings": 5
+                    },
+                    {
+                        "id": 3,
+                        "product": "Unisex Tank Top",
+                        "image": "https://m.media-amazon.com/images/I/61Nvv9X0KfS._AC_UY879_.jpg",
+                        "price": 29.99,
+                        "inventory": 89,
+                        "ratings": 5
+                    }
+                ]
+
+                
+        }
+}
+
+
+    
